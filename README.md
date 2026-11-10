@@ -75,18 +75,6 @@ python -m unittest -v
 
 La llamada real a Gemini requiere configurar una clave válida y conexión a Internet. La disponibilidad, cuotas y condiciones de uso dependen de Google AI Studio y del proyecto asociado a la clave.
 
-## Publicar en GitHub
 
-Inicializa el repositorio desde esta carpeta, revisa los archivos y confirma los cambios. Antes de publicar puedes comprobar que `.env` está ignorado con `git check-ignore .env`. Sube `.env.example`, nunca `.env` ni la clave real.
-
-
-## Documentación técnica
-
-- [SDK oficial de Google GenAI para Python](https://ai.google.dev/gemini-api/docs/libraries)
-- [Respuestas estructuradas JSON](https://ai.google.dev/gemini-api/docs/structured-output)
-- [Modelos Gemini disponibles](https://ai.google.dev/gemini-api/docs/models)
-- [Errores de la API y reintentos](https://ai.google.dev/gemini-api/docs/api-errors)
-- [Control del nivel de razonamiento](https://ai.google.dev/gemini-api/docs/thinking)
-- [Gemini 3.5 Flash-Lite, optimizado para baja latencia](https://ai.google.dev/gemini-api/docs/models/gemini-3.5-flash-lite)
 
 
