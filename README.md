@@ -90,19 +90,3 @@ Inicializa el repositorio desde esta carpeta, revisa los archivos y confirma los
 - [Gemini 3.5 Flash-Lite, optimizado para baja latencia](https://ai.google.dev/gemini-api/docs/models/gemini-3.5-flash-lite)
 
 
-## Publicar en GitHub
-
-1. Crea un repositorio vacío en GitHub (sin generar otro README).
-2. En una terminal abierta dentro de la carpeta del proyecto, configura Git y sube los archivos:
-
-```bash
-git init -b main
-git add .
-git status --short
-git check-ignore -v .env
-git commit -m "Añade asistente virtual de peluquería"
-git remote add origin https://github.com/USUARIO/REPOSITORIO.git
-git push -u origin main
-```
-
-Sustituye `USUARIO/REPOSITORIO` por la dirección real que GitHub muestra. Comprueba que `.env` está ignorado antes de subir nada; el ZIP de entrega no contiene ese archivo ni la carpeta `.git`.
