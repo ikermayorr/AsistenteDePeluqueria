@@ -1,0 +1,16 @@
+# Secretos: nunca subir claves al repositorio
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE y sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

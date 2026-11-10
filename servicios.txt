@@ -1,0 +1,23 @@
+DATOS DE EJEMPLO PARA LA PRÁCTICA: sustitúyelos por los datos del salón real.
+PELUQUERÍA LUNA
+Dirección: Calle Mayor 24, Madrid.
+Teléfono: 910 123 456.
+
+HORARIO
+Lunes a viernes: 09:30-19:30.
+Sábado: 10:00-14:00.
+Domingo: cerrado.
+
+SERVICIOS Y PRECIOS
+Corte mujer: 24 € (45 min).
+Corte hombre: 18 € (30 min).
+Lavado y peinado: desde 20 € (45 min; el precio final depende del largo).
+Coloración: desde 45 € (90 min; el precio final depende del largo y la técnica).
+Mechas: desde 65 € (120 min; requiere valoración previa).
+Tratamiento hidratante: 30 € (40 min).
+
+INFORMACIÓN
+Se recomienda llamar para consultar disponibilidad y reservar.
+Los precios indicados como «desde» pueden variar según el largo y la técnica.
+No se aceptan reservas por esta aplicación.
+
